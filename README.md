@@ -1,5 +1,5 @@
-# Jackie's Blog
+# Welcome to the personal site of Jackie R. Gleason
 
-You have reached the Blog for [Jackie Gleason](https://jackiergleason.com). Good things coming soon!
+You have reached the personal site and blog for [Jackie Gleason](/). Mr. Gleason is a Polyglot Full Stack Engineer from the Columbus region. Currently, Mr. Gleason is working for J.P. Morgan Chase Investment Bank. Here he works on PaaS platforms, data categorization using AI/ML and with other technologies such as Ethereum. 
 
-[1.0](./posts/1.0/1.0-Index.md)
+For more information see Jackie's resume or reach out [directly](jackiegleason+jrgco@gmail.com). 
