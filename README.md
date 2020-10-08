@@ -1,4 +1,4 @@
-# Welcome to the personal site of Jackie R. Gleason
+# Jackie R. Gleason
 
 <div align="center">
 <img
