@@ -1,0 +1,19 @@
+{
+  "name": "@jrg/myexample",
+  "version": "0.0.1",
+  "description": "My Sample Project",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Jackie Gleason",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-mount": "^4.0.0",
+    "koa-static": "^5.0.0"
+  }
+}
